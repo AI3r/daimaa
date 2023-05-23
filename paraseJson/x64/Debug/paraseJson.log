@@ -1,0 +1,7 @@
+﻿  paraseJson.cpp
+E:\vcpkg\installed\x64-windows\include\iconv.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\textCode\paraseJson\paraseJson.cpp(47,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\textCode\paraseJson\paraseJson.cpp(51,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\textCode\paraseJson\paraseJson.cpp(65,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\textCode\paraseJson\paraseJson.cpp(98,23): warning C4018: “<”: 有符号/无符号不匹配
+  paraseJson.vcxproj -> E:\textCode\paraseJson\x64\Debug\paraseJson.exe
